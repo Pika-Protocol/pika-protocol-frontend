@@ -1,0 +1,7 @@
+.welcome {
+  min-height: 60vh;
+  background: url('./assets/bg-main.gif') center no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  text-align: center;
+}
