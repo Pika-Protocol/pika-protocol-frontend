@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "232ad14f39c5bb20dff06f6ada358645",
+    "revision": "a72fba1283701226198b1f35f32f7965",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/6.190be841.chunk.css"
   },
   {
-    "revision": "4f492d00e15676217cd5",
+    "revision": "8715905060541ed043f2",
     "url": "/static/css/main.01dc8e27.chunk.css"
   },
   {
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/9.8edb2aa9.chunk.js"
   },
   {
-    "revision": "4f492d00e15676217cd5",
-    "url": "/static/js/main.daee8dfb.chunk.js"
+    "revision": "8715905060541ed043f2",
+    "url": "/static/js/main.343ffbff.chunk.js"
   },
   {
     "revision": "46338c0bf38220143d3b",
@@ -112,19 +112,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bg-main.bba055e5.gif"
   },
   {
-    "revision": "e69645b830cacf5cf1521da989804e67",
-    "url": "/static/media/pokemon-fushigidane.e69645b8.png"
+    "revision": "98e999fc6f3665a5b42c3e6daded60f5",
+    "url": "/static/media/pokemon-fushigidane.98e999fc.png"
   },
   {
-    "revision": "f7b4febcef6e20f4256ce74548dec736",
-    "url": "/static/media/pokemon-pikachu.f7b4febc.png"
+    "revision": "ebd80cec58a1551a9429170cd461f5a5",
+    "url": "/static/media/pokemon-pikachu.ebd80cec.png"
   },
   {
-    "revision": "7c285c7d1de3c768353c5e65a98ab0d7",
-    "url": "/static/media/pokemon-zenigagame.7c285c7d.png"
+    "revision": "c7a6262cd972c1cafed7ed557826cb67",
+    "url": "/static/media/pokemon-zenigagame.c7a6262c.png"
   },
   {
-    "revision": "c099911ba7a507883f7b72e7b45ab9ad",
-    "url": "/static/media/title.c099911b.png"
+    "revision": "846fda2aec32e1311cad4fb76b20c044",
+    "url": "/static/media/title.846fda2a.png"
   }
 ]);
